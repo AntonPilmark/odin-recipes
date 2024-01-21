@@ -1,0 +1,15 @@
+body
+{
+    background-color: rgb(43, 99, 99);
+    color: rgb(233, 181, 86);
+}
+
+a:link
+{
+    color: deeppink;
+}
+
+a:visited
+{
+    color: aliceblue;
+}
